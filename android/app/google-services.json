@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250012513838",
+    "project_id": "fir-alfan",
+    "storage_bucket": "fir-alfan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250012513838:android:eeef6d0c0292ede78111bf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF0cVSp5IDhbsPxTZlejkxmjOHgP2PmZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
