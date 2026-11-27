@@ -1,4 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_flutter/notification_service.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_flutter/widget/auth_wrapper.dart';
 import 'firebase_options.dart';
